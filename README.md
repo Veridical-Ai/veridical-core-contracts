@@ -15,7 +15,7 @@ Veridical AI is a groundbreaking blockchain-based platform leveraging the power 
 ## How to Get Started
 1. **Visit Our Website**: Explore more at [veridicalai.xyz](https://veridicalai.xyz).
 2. **Read the Whitepaper**: Understand the full scope of Veridical AI's vision and architecture.
-3. **Join the Community**: Engage with us on [Twitter](#) and [Discord](#) to stay updated.
+3. **Join the Community**: Engage with us on [Twitter](https://x.com/AiVeridical) and [Discord](https://discord.gg/qjFMCEW7ds) to stay updated.
 
 ---
 
