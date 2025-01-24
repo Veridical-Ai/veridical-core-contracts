@@ -33,7 +33,7 @@ Veridical AI is a groundbreaking blockchain-based platform leveraging the power 
 - Launch of Veridical AI website and whitepaper.
 
 ### Phase 2: Token Launch (Q2 2025)
-- VERA token public sale and airdrops.
+- VERI token public sale and airdrops.
 - Staking platform release.
 
 ### Phase 3: Ecosystem Expansion (Q3–Q4 2025)
