@@ -1,4 +1,4 @@
-# Veridical AI (VERA)
+# Veridical AI (VERI)
 
 Veridical AI is a groundbreaking blockchain-based platform leveraging the power of artificial intelligence to bring transparency, trust, and efficiency to decentralized systems. Built on the Solana blockchain, Veridical AI integrates advanced machine learning algorithms with smart contracts to verify data integrity and foster trustless interactions.
 
